@@ -59,7 +59,7 @@ The car battery system is designed to:
 ## 4. Performance Requirements
 
 ### 4.1 Energy Capacity
-- Nominal Capacity: 75 kWh
+- Nominal Capacity: 80 kWh
 - Usable Capacity: 70 kWh
 - Energy Density: ≥ 160 Wh/kg
 

@@ -40,10 +40,10 @@ This document specifies the electrical characteristics, performance parameters, 
 ## 3. Battery Pack Configuration
 
 ### 3.1 Pack Architecture
-- Series Configuration: 108 cells (108S)
-- Parallel Configuration: 2 modules (2P)
-- Total Cells: 216 cells
-- Module Count: 12 modules (18S per module)
+- Module Configuration: 18 cells in series per module (18S)
+- Pack Configuration: 6 modules in series, 2 strings in parallel (6S2P at module level)
+- Total Cells: 216 cells (108S2P at cell level)
+- Module Count: 12 modules total
 
 ### 3.2 Pack Voltage Specifications
 
